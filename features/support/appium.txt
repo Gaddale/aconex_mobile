@@ -1,0 +1,13 @@
+[caps]
+platformName = "Android"
+deviceName = "Motorola"
+platformVersion = "6.0"
+newCommandTimeout = "60*5"
+appPackage = "com.aconex.aconexmobileandroid"
+appActivity = "view.SplashActivity"
+app = "/home/nagaraj/RubymineProjects/MobileAutomation/features/support/Aconex_V_1.6.0.5_Apr_01_2016.apk"
+
+
+[appium_lib]
+sauce_username = false
+sauce_access_key = false
