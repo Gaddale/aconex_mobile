@@ -1,0 +1,7 @@
+#Ignore following
+.idea/
+Gemfile.lock
+# Ignore Yard generated docs directory
+.yardoc/
+# Ignore the Yard server directory
+doc/
